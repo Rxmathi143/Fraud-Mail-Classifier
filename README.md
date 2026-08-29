@@ -1,4 +1,4 @@
-# 📧 Spam Email Classifier
+# 📧 Fraud Email Classifier
 
 A machine learning web application that classifies whether an email subject line is **Spam** or **Not Spam** using a **Multinomial Naive Bayes** model. The application is built using **Python, Flask, HTML/CSS, and scikit-learn**.
 
